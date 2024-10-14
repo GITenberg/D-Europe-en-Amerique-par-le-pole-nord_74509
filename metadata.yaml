@@ -1,0 +1,52 @@
+_repo: D-Europe-en-Amerique-par-le-pole-nord_74509
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rabot, Charles
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '51300'
+    url: http://www.gutenberg.org/2009/agents/51300
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_Rabot
+    - https://fr.wikipedia.org/wiki/Charles_Rabot
+creator:
+  authors:
+  - agent_name: Amundsen, Roald
+    aliases:
+    - Amundsen, Rual
+    - Amundsen, Roald Engelbregt Gravning
+    birthdate: 1872
+    deathdate: 1928
+    gutenberg_agent_id: '1189'
+    url: http://www.gutenberg.org/2009/agents/1189
+    wikipedia: https://en.wikipedia.org/wiki/Roald_Amundsen
+  - agent_name: Ellsworth, Lincoln
+    birthdate: 1880
+    deathdate: 1951
+    gutenberg_agent_id: '55589'
+    url: http://www.gutenberg.org/2009/agents/55589
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lincoln_Ellsworth
+    - https://fr.wikipedia.org/wiki/Lincoln_Ellsworth
+description: ''
+gutenberg_issued: '2024-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74509'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9451807
+pgterms:marc905: 20231118093747amundsen
+pgterms:marc906: '1927'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bAlbin Michel, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: D'Europe en Amérique par le pôle nord
+url: http://www.gutenberg.org/ebooks/74509
