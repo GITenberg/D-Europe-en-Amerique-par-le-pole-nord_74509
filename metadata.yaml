@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Charles_Rabot
     - https://fr.wikipedia.org/wiki/Charles_Rabot
+covers:
+- cover_type: archival
+  image_path: 74509-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Amundsen, Roald
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Lincoln_Ellsworth
     - https://fr.wikipedia.org/wiki/Lincoln_Ellsworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74509#D-Europe-en-Amerique-par-le-pole-nord
 gutenberg_issued: '2024-10-03'
 gutenberg_type: Text
 identifiers:
